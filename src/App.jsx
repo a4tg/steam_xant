@@ -222,11 +222,8 @@ export default function App() {
                   src="/assets/logo.webp"
                   srcSet="/assets/logo@2x.webp 2x"
                   alt="REXANT"
-<<<<<<< HEAD
-                  className="h-56 md:h-72 w-auto animate-float-slow drop-shadow-[0_0_20px_rgba(255,255,255,0.3)]"
-=======
-                  className="h-56 md:h-72 w-auto animate-float-slow drop-shadow-[0_0_12px_rgba(227,27,35,.4)]"
->>>>>>> eb934f224f92e2a1990d2f202cafd3e536d03bc6
+                  className="h-56 md:h-72 w-auto animate-float-slow drop-shadow-[0_0_20px_rgba(255,255,255,0.4
+                )]"
                   decoding="async"
                   loading="eager"
                 />
